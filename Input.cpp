@@ -7,5 +7,11 @@ int main(){
 
 	cin>>name; //CIN stands for "Character input"
 	cout<<"Hello "<<name<<endl;
+
+
+	int number;//declaring an int variable
+	cout<<"Enter a number: ";	//asking for the user to enter a number
+	cin>>number;
+	cout<<"The number entered is "<<number<<endl;
 	return 0;
 }
