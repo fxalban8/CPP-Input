@@ -6,6 +6,6 @@ int main(){
 	cout<<"Enter your name "<<flush;
 
 	cin>>name; //CIN stands for "Character input"
-
+	cout<<"Hello "<<name<<endl;
 	return 0;
 }
